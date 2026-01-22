@@ -1,0 +1,22 @@
+{
+  "name": "exa-search",
+  "version": "1.0.0",
+  "description": "Semantic search skill for Claude using Exa API",
+  "main": ".claude/skills/exa-search/exa-api.js",
+  "scripts": {
+    "test": "node .claude/skills/exa-search/exa-api.js --help"
+  },
+  "keywords": [
+    "exa",
+    "search",
+    "semantic",
+    "claude",
+    "skill"
+  ],
+  "author": "BenedictKing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenedictKing/exa-search.git"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "exa-search",
+  "description": "Semantic search skill for Claude - search/contents/findsimilar/answer/research via Exa API",
+  "author": {
+    "name": "BenedictKing",
+    "url": "https://github.com/BenedictKing"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenedictKing/exa-search.git"
+  },
+  "skills": [
+    ".claude/skills/exa-search"
+  ],
+  "keywords": [
+    "exa",
+    "search",
+    "semantic",
+    "research",
+    "findsimilar",
+    "answer"
+  ],
+  "license": "MIT"
+}
