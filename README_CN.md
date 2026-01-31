@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[English](./README.md) | 简体中文
+
 基于 [Exa API](https://exa.ai) 的 Claude Code 语义搜索技能。提供基于嵌入的智能搜索、相似内容发现和结构化研究能力。
 
 ## 功能特性

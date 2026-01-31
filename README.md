@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+English | [简体中文](./README_CN.md)
+
 Semantic search skill for Claude Code using [Exa API](https://exa.ai). Provides embeddings-based intelligent search, similar content discovery, and structured research capabilities.
 
 ## Features
