@@ -166,7 +166,7 @@ Exa API 定价（截至 2026 年）：
 
 ## 与 Tavily 的比较
 
-| 功能 | Exa | Tavily |
+| 功能 | [Exa](https://exa.ai) | [Tavily](https://tavily.com) |
 |------|-----|--------|
 | 搜索类型 | 基于嵌入的语义搜索 | 关键词 + AI 增强 |
 | 相似查找 | ✅ | ❌ |
@@ -174,6 +174,10 @@ Exa API 定价（截至 2026 年）：
 | 搜索模式 | neural/fast/deep/auto | basic/advanced |
 | 成本追踪 | ✅ 每次请求详细 | ❌ |
 | 爬取/映射 | ❌ | ✅ |
+
+**Claude Code Skills：**
+- Exa：[BenedictKing/exa-search](https://github.com/BenedictKing/exa-search)
+- Tavily：[BenedictKing/tavily-web](https://github.com/BenedictKing/tavily-web)
 
 **使用 Exa 当：**
 - 需要语义/基于嵌入的搜索

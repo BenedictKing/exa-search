@@ -172,7 +172,7 @@ This design minimizes token usage and keeps conversation history clean.
 
 ## Comparison with Tavily
 
-| Feature | Exa | Tavily |
+| Feature | [Exa](https://exa.ai) | [Tavily](https://tavily.com) |
 |---------|-----|--------|
 | Search Type | Embeddings-based semantic | Keyword + AI-enhanced |
 | Find Similar | ✅ | ❌ |
@@ -180,6 +180,10 @@ This design minimizes token usage and keeps conversation history clean.
 | Search Modes | neural/fast/deep/auto | basic/advanced |
 | Cost Tracking | ✅ Detailed per request | ❌ |
 | Crawl/Map | ❌ | ✅ |
+
+**Claude Code Skills:**
+- Exa: [BenedictKing/exa-search](https://github.com/BenedictKing/exa-search)
+- Tavily: [BenedictKing/tavily-web](https://github.com/BenedictKing/tavily-web)
 
 **Use Exa when:**
 - You need semantic/embeddings-based search
