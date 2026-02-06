@@ -1,6 +1,6 @@
 ---
 name: exa-search
-version: 1.0.0
+version: 1.0.1
 author: BenedictKing
 description: "Semantic search skill using Exa API for embeddings-based search, similar content discovery, and structured research. Use when you need semantic search, find similar pages, or category-specific searches. Triggers: exa, semantic search, find similar, research paper, github search, 语义搜索, 相似内容"
 allowed-tools:
