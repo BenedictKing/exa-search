@@ -18,19 +18,25 @@ Semantic search skill for Claude Code using [Exa API](https://exa.ai). Provides 
 
 ## Installation
 
-### Option 1: Install via skills CLI (Recommended)
+### Option 1: Install via skill-master (Recommended)
 
 ```bash
 # Install globally to all detected agents (Claude Code, Cursor, Codex, etc.)
-npx skills add -g BenedictKing/exa-search
+npx skill-master add -g BenedictKing/exa-search
 
 # Or install to current project only
-npx skills add BenedictKing/exa-search
+npx skill-master add BenedictKing/exa-search
 ```
 
 The skill will be automatically installed and loaded by Claude Code.
 
-### Option 2: Manual Installation via Git Clone
+### Option 2: Install via skills CLI
+
+```bash
+npx skills add -g BenedictKing/exa-search
+```
+
+### Option 3: Manual Installation via Git Clone
 
 1. Clone this repository to your Claude skills directory:
 ```bash

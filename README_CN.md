@@ -18,13 +18,23 @@
 
 ## 安装
 
-### 通过 Claude Code 插件管理器
+### 方式一：使用 skill-master 安装（推荐）
 
 ```bash
-claude plugin install https://github.com/BenedictKing/exa-search.git
+# 全局安装到所有检测到的 AI 编程助手（Claude Code、Cursor、Codex 等）
+npx skill-master add -g BenedictKing/exa-search
+
+# 或仅安装到当前项目
+npx skill-master add BenedictKing/exa-search
 ```
 
-### 手动安装
+### 方式二：使用 skills CLI 安装
+
+```bash
+npx skills add -g BenedictKing/exa-search
+```
+
+### 方式三：手动安装
 
 1. 克隆此仓库到 Claude 技能目录：
 ```bash
